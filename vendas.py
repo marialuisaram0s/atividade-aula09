@@ -2,7 +2,7 @@
 # Complete a função antes de entregar a primeira versão.
 
 def calcular_desconto(valor_venda):
-    if valor_venda >= 50:
+    if valor_venda >= 60:
         return valor_venda * 0.10
     return 0.0
 
